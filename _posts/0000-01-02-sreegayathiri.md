@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jane Austen's Pride and Prejudice is my favourite book!
 Use the left arrow to go back!
